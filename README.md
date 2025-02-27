@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandytiwari](https://github.com/Sandytiwari)
 
-- 💬 Ask me about **Frontend, Backend and Databases**
+- 💬 Ask me about **Frontend, Backend and Databases and Devops**
 
 - 📫 How to reach me **sandiptiwari650@gmail.com**
 
